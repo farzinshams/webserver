@@ -1,4 +1,7 @@
 # webserver
+
+DISCLAIMER: THIS PROJECT IS CURRENTLY BUGGED. NOT SURE WHEN I'LL FIX IT.
+
 HTTP web server
 
 This is a pretty interesting project considering what it's built with: C, Bison for syntactical analysis, and Lex for lexical analysis. Does port reading/writing, multithreading, http request lexical analysis with lex, syntactical analysis with bison, and saves the request in a multiple chained linked list.
